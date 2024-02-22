@@ -1,0 +1,4 @@
+[17-Mar-2023 15:51:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: price in /home/bizwjvmc/public_html/Model/Admin/Product/Edit/EditAccountGame.php on line 11
+[17-Mar-2023 15:51:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: name_game in /home/bizwjvmc/public_html/Model/Admin/Product/Edit/EditAccountGame.php on line 46
+[17-Mar-2023 16:17:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: price in /home/bizwjvmc/public_html/Model/Admin/Product/Edit/EditAccountGame.php on line 11
+[17-Mar-2023 16:17:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: name_game in /home/bizwjvmc/public_html/Model/Admin/Product/Edit/EditAccountGame.php on line 46
